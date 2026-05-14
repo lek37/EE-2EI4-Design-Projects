@@ -93,6 +93,6 @@ If you use LaTeX to write your report (Overleaf), and you wish to use my formatt
 ```
 
 2. On Overleaf, click `File`, then `Setting`, then `Compiler`, then `XeLaTeX` from the second dropdown box. This will allow you to render the code with Times New Roman font.
-3. Click `Compile`, and then you are all set. 
+3. Click `Recompile`, and then you are all set. 
 
 
